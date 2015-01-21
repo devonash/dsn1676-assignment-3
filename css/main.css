@@ -36,7 +36,7 @@ html {
     left: 300px;
     top: 150px;
     -webkit-animation: ship-move 5s linear forwards;
-    animation: ship-move 5s linear forwards;
+    animation: ship-move 5s linear forwards infinite;
 }
 
 .stars {
